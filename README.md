@@ -3,11 +3,12 @@
 A premium, OC-themed architecture storefront for browsing and purchasing modern house plans. The interface demonstrates immersive image-led hero slides, structured plan collections, modal-driven plan exploration, and polished purchase flows within a refined dark editorial aesthetic.
 
 > [!NOTE]
-> [Live demo coming soon](#)
+> [Live demo](https://vesta-ecommerce-main.vercel.app/)
 
 ## Preview
 
-
+![desktop](./public/desktop.png)
+![mobile](./public/mobile.png)
 
 
 ## Features
@@ -58,8 +59,8 @@ public/
 
 ## Run Locally
 ```bash
-git clone https://github.com/Ravenick/vesta-house-plans.git
-cd "vesta-house-plans"
+git clone https://github.com/Ravenick/vesta-ecommerce-website.git
+cd "vesta-ecommerce-website"
 npm install
 npm run dev
 ```
